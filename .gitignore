@@ -1,1 +1,6 @@
+#ignore compiled files
 *.class
+
+.jbuild/
+
+.vscode/

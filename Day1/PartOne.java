@@ -17,10 +17,7 @@ public class PartOne {
 				 * - An open '(' means go up one floor
 				 * - A closing ')' means go down one floor
          *
-         * TODO:
-         * - Add actual character processing logic
-         * - Consider error handling for empty files
-         * - Maybe add input validation
+				 * NOTE: This just solves solution two.  I was lazy and it was too easy.
          */
         try {
             BufferedReader reader = new BufferedReader(new FileReader("input.txt"));
